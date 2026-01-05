@@ -20,3 +20,6 @@ int main() {
     cout << "验证: " << x << "² = " << x * x << endl;
     return 0;
 }
+
+
+test
